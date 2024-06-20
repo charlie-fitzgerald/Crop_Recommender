@@ -1,10 +1,10 @@
-![image](https://github.com/charlie-fitzgerald/Crop_Recommender/assets/46912450/814414c7-1578-4909-8826-b95f9f05ae06)# Crop_Recommender
+Crop_Recommender
 Crop recommendation application using machine learning with Python
 
 User Guide 
 Step 0: Make sure your computer has Python installed. This application was developed with Python version 3.12.3, so make sure that you have a compatible version installed. If you need to download Python, go to https://www.python.org/downloads/ and download the latest version of Python.
 
-Step 1: Extract the code and other necessary files from the .zip archive that was submitted. Extract the files to a location of your choosing. Typical software used for unzipping files are WinRAR and 7-Zip.
+Step 1: Extract the code and other necessary files from the .zip archive that was downloaded from the repository. Extract the files to a location of your choosing. Typical software used for unzipping files are WinRAR and 7-Zip.
  
 ![image](https://github.com/charlie-fitzgerald/Crop_Recommender/assets/46912450/bf75e444-92a9-44f6-afa8-40cb44345cec)
 
