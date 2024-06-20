@@ -3,7 +3,7 @@ Crop recommendation application using machine learning with Python
 
 User Guide 
 
-Step 0: Make sure your computer has Python installed. This application was developed with Python version 3.12.3, so make sure that you have a compatible version installed. If you need to download Python, go to https://www.python.org/downloads/ and download the latest version of Python.
+Step 0: Make sure your computer has Python installed. This application was developed with Python version 3.12.3, so make sure that you have a compatible version. If you need to download Python, go to https://www.python.org/downloads/ and download the latest version.
 
 Step 1: Extract the code and other necessary files from the .zip archive that was downloaded from the repository. Extract the files to a location of your choosing. Typical software used for unzipping files are WinRAR and 7-Zip.
  
