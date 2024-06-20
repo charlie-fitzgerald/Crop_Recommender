@@ -39,6 +39,7 @@ If all of the necessary packages have been installed, you should see the applica
 
 
 Step 5: In the application window, fill out all of the entry fields with values that are within the range provided. The range is inclusive. You can type in numbers for all of the entry fields, or use the arrows next to the entry fields to provide input. Only numbers are allowed to be typed into the entry fields. Any non-numeric inputs are not allowed to be typed in.
+
 *Note: If any fields are left blank, or have values outside of the provided range, there will be an error when you click submit, and you will be asked to ensure that your inputs are entered correctly. Please refer to the following screenshots:
 
 ![image](https://github.com/charlie-fitzgerald/Crop_Recommender/assets/46912450/dbb027ba-9480-4895-91c1-d45a77946b30)
